@@ -44,8 +44,4 @@
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whitespaca&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/whitespaca">
-    <img height="400cm" src=https://github-readme-activity-graph.vercel.app/graph?username=whitespaca&custom_title=whitespaca%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=007ACD&line=007ACD&point=007ACD&area_color=FFFFFF&title_color=FFFFFF&area=true>
-  </a>
-</p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
