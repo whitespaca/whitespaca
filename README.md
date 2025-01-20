@@ -40,7 +40,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="">
   <a href="https://github.com/whitespaca">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whitespaca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="193em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whitespaca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whitespaca&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
