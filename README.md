@@ -46,6 +46,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/whitespaca">
-    <img height="400cm" src=https://github-readme-activity-graph.vercel.app/graph?username=whitespaca&custom_title=whitespaca%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true>
+    <img height="400cm" src=https://github-readme-activity-graph.vercel.app/graph?username=whitespaca&custom_title=whitespaca%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=007ACD&line=007ACD&point=007ACD&area_color=FFFFFF&title_color=FFFFFF&area=true>
   </a>
 </p>
