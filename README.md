@@ -38,12 +38,12 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="">
+<p align="left">
   <a href="https://github.com/whitespaca">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whitespaca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-<p align="">
+<p align="right">
   <a href="https://github.com/whitespaca">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whitespaca&layout=compact&langs_count=8&theme=algolia"/>
   </a>
